@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "hello",
+      "email" : "aa@a.com"
+    },
+    {
+      "id": 2,
+      "name": "welcome",
+      "email" : "ab@a.com"
+    }
+  ]
+}
